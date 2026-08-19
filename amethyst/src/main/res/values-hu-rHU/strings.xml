@@ -574,6 +574,9 @@
     <string name="quick_action_block">Letiltás</string>
     <string name="quick_action_mute_thread">Szál némítása</string>
     <string name="quick_action_unmute_thread">Szál némításának megszüntetése</string>
+    <string name="mute_notifications">Értesítések némítása</string>
+    <string name="unmute_notifications">Értesítések némításának megszüntetése</string>
+    <string name="muted_chat_content_description">Ehhez a csevegéshez némítva vannak az értesítések</string>
     <string name="quick_action_report">Bejelentés</string>
     <string name="quick_action_dont_show_again_button">Ne jelenítse meg újra</string>
     <string name="report_dialog_spam">Kéretlen tartalom vagy átverés</string>
@@ -2971,6 +2974,9 @@
     <string name="cashu_remove_mint">Pénzverde eltávolítása</string>
     <string name="cashu_add_mint">Pénzverde hozzáadása</string>
     <string name="cashu_history">Előzmények</string>
+    <string name="cashu_history_loading_older">Régebbi tranzakciók betöltése…</string>
+    <string name="cashu_history_all_loaded">Nincsenek régebbi tranzakciók</string>
+    <string name="cashu_history_some_relays_unreachable">A kérésre válaszoló átjátszók közül nem érkezett régebbi tranzakció – néhányat nem sikerült elérni</string>
     <string name="cashu_wallet_autosaves">A pénztárcája automatikusan mentésre kerül, amikor pénzverdét ad hozzá vagy távolít el. Egy nutzap kulcs jön létre az Ön számára, amikor először ad hozzá egy pénzverdét.</string>
     <string name="cashu_wallet_saving">Mentés…</string>
     <string name="cashu_p2pk_section">Nutzap kulcs (speciális)</string>

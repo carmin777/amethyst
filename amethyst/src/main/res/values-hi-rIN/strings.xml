@@ -573,6 +573,9 @@
     <string name="quick_action_block">बाधित करें</string>
     <string name="quick_action_mute_thread">सूत्र मौन करें</string>
     <string name="quick_action_unmute_thread">सूत्र मौन हटाएँ</string>
+    <string name="mute_notifications">सूचनाएँ मौन करें</string>
+    <string name="unmute_notifications">सूचना मौनावस्था हटाएँ</string>
+    <string name="muted_chat_content_description">इस चर्चा के लिए सूचनाएँ मौनकृत</string>
     <string name="quick_action_report">वृत्तान्त</string>
     <string name="quick_action_dont_show_again_button">फिर से ना दिखाएँ</string>
     <string name="report_dialog_spam">कचरालेख अथवा घोटाला</string>
@@ -2970,6 +2973,9 @@
     <string name="cashu_remove_mint">टकसाल हटाएँ</string>
     <string name="cashu_add_mint">टकसाल जोडें</string>
     <string name="cashu_history">इतिहास</string>
+    <string name="cashu_history_loading_older">पुराने व्यापार जानकारी का आवहन…</string>
+    <string name="cashu_history_all_loaded">पुराने व्यापार नहीं</string>
+    <string name="cashu_history_some_relays_unreachable">पुराने व्यापार नहीं उन पुनःप्रसारकों पर जिनसे उत्तर प्राप्त हुए। कुछ अनभिगम्य थे</string>
     <string name="cashu_wallet_autosaves">आपका धनकोष स्वचालित रूप से अभिलेखन करता है जब आप टकसालों को जोडते हैं अथवा हटाते हैं। एक नटज्साप कुंचिका आपके लिए बनाई जाएगी जब आप प्रथम बार एक टकसाल जोडेंगे।</string>
     <string name="cashu_wallet_saving">अभिलेखन…</string>
     <string name="cashu_p2pk_section">नटज्साप कुंचिका (उन्नत)</string>
